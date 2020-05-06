@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SearchEngineSE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SearchEngineSE_jar/SearchEngineSE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
